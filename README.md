@@ -5,7 +5,7 @@ A small script to download podcast episodes via a web interface. Tested on Pytho
 
 I made it for my old Nokia phone that doesn't have a podcast client, and only a primitive browser. I can download mp3 files and play them on the phone, but web pages are hard to navigate so I needed something simple to keep links to my podcast episodes in one place.
 
-I use it by starting the script on a computer when I need to download a new podcast episode, then going to http://<server-ip>:8000/ in the phone's browser.
+I use it by starting the script on a computer when I need to download a new podcast episode, then going to http://[server's ip]:8000/ in the phone's browser.
 
 Usage
 =====
